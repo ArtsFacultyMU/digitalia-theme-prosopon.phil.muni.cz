@@ -1,0 +1,15 @@
+.region-primary-menu ul.menu > li:nth-child(2) {
+  flex-grow: 2;
+}
+
+div.block-simple-blockfront-page-jumbotron > div.content {
+  background-image: url('/themes/custom/islandora_muni/platform_specific/images/lexicon_banner.jpg');
+}
+
+div.block-simple-blockfront-page-jumbotron > div.content > p {
+  color: #0000DC;
+}
+
+div.block-simple-blockscf-jumbotron > div.content {
+  background-image: url('/themes/custom/islandora_muni/platform_specific/images/scf_banner.jpg');
+}
